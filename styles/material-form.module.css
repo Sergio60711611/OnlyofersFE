@@ -1,9 +1,5 @@
-.container{
 
-    width: 1220px;
-    margin: 50px auto;
-}  
-  .MaterialForm {
+.MaterialForm {
     display: flex;
     flex-direction: column;
   
@@ -12,9 +8,9 @@
     width: 100vw;
     height: 100vh;
     background-color: rgb(144, 186, 238);
-  }
+}
   
-  .MaterialForm > form {
+.MaterialForm > form {
     display: flex;
     flex-direction: column;
     background-color: white;
@@ -22,4 +18,4 @@
     min-width: 350px;
     border-radius: 8px;
     margin: 32px;
-  }
+}
