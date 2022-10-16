@@ -6,6 +6,8 @@ export default function FAQ(){
       <Layout>
         <h1>FAQ</h1>
       </Layout>
+
+      
     )
 
 

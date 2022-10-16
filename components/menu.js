@@ -13,8 +13,12 @@ export default function Menu(){
             <Link href="/faq">
                 <a className={style.link}>FAQ</a>
             </Link>
+            
         </div>
         <div>
+        <Link href="/registros/registrarnegocio">
+                <a className={style.link}>RegistrarNegocio</a>
+            </Link>
             <a href="#" className={style.link}> 
             {" "}
             Cart(0)

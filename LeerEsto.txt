@@ -1,0 +1,2 @@
+npx create-next-app "nombre"	sirve para crear nuevo proyecto en js
+npm run dev			sirve para iniciar terminal web
